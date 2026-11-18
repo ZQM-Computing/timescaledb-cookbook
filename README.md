@@ -34,6 +34,8 @@ Engineers who store time-series sensor and observation data in Postgres.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-hypertable` | Creating hypertables from timestamped tables |
